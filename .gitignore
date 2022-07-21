@@ -1,0 +1,9 @@
+assets/fonts/
+assets/img/
+assets/scss/
+fonts/
+plugins/
+prueba.php
+*.log
+.gitignore
+core/lib/config.ini
